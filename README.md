@@ -2,7 +2,7 @@
 
 This repository contains the official TLA+ specification accompanying the paper:
 
-> **Adversarially Verified Ephemeral Trust for CI/CD Runners**
+> **Adversarially Verified Ephemeral Trust for Secure CI/CD Runners**
 
 The model formalizes a lifecycle-oriented Secure Runner architecture for zero-trust CI/CD environments and provides the complete artifacts required to reproduce the verification results reported in the paper.
 
