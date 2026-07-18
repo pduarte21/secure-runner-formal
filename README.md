@@ -119,13 +119,9 @@ The expected outcome is successful verification of all safety invariants and tem
 
 ---
 
-## Paper
+## Documentation
 
-If you use this repository, please cite:
-
-> *Adversarially Verified Ephemeral Trust for Secure CI/CD Runners*
-
-(BibTeX will be added upon publication.)
+Additional documentation and scientific publications accompanying this repository are available in the [`papers/`](papers/) directory.
 
 ---
 
